@@ -3,7 +3,7 @@
 A Python data analytics platform designed to visualize and evaluate global per-capita CO₂ emissions across two key baseline timelines: 2018 (pre-pandemic) and 2020 (peak COVID-19 lockdown cycles).
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](carbon_dashboard.jpg)
+![Dashboard Preview](carbon_dashboard.png)
 
 ## 🛠️ Tech Stack & Tools Used
 - **Python** (Core Logic)
